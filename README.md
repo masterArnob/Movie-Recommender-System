@@ -19,6 +19,7 @@ The **Movie Recommender System** is a **content-based recommendation model** bui
 <p align="center">
   <img src="/assets/process_flow.png" alt="Workflow" width="850" style="border-radius:8px;">
 </p>
+
 <p align="center">
   <img src="/assets/frontend.png" alt="Workflow" width="850" style="border-radius:8px;">
 </p>
