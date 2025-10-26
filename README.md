@@ -24,4 +24,3 @@ The **Movie Recommender System** is a **content-based recommendation model** bui
 </p>
 
 
-t(movies.iloc[i[0]].title)
