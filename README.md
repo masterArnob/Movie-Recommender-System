@@ -25,3 +25,17 @@ The **Movie Recommender System** is a **content-based recommendation model** bui
 </p>
 
 
+
+
+
+
+## 👨‍💻 Author
+
+**Sadmanul Hoque**   
+📧 sadmnulhoque21@gmail.com  
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/sadmanul-hoque/)  
+💾 [GitHub Profile](https://github.com/masterArnob)
+
+
+
+
