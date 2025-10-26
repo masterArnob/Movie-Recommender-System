@@ -20,12 +20,8 @@ The **Movie Recommender System** is a **content-based recommendation model** bui
   <img src="/assets/process_flow.png" alt="Workflow" width="850" style="border-radius:8px;">
 </p>
 
+<p align="center">
+  <img src="/assets/frontend.png" alt="Workflow" width="850" style="border-radius:8px;">
+</p>
 
 
-```python
-def recommend(movie):
-    movie_index = movies[movies['title'] == movie].index[0]
-    distances = similarity[movie_index]
-    movie_list = sorted(list(enumerate(distances)), reverse=True, key=lambda x: x[1])[1:6]
-    for i in movie_list:
-        print(movies.iloc[i[0]].title)
